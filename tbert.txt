@@ -1,0 +1,5 @@
+11월 24일 화요일 1교시 
+순서1]  깃사이트 접속  
+https://github.com/posasi2000/tree
+ㄴ tree저장소에서  tbert.txt  내용추가및 삭제 수정 
+ㄴsample폴더에서 aaa.txt문서 작성
